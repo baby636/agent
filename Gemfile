@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'fpm'
+gem 'fpm', '>= 1.11.0'
 gem 'deb-s3'
